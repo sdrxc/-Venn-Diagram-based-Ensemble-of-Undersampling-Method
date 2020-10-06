@@ -1,4 +1,6 @@
 # Venn-Diagram-based-Ensemble-of-Undersampling-Method
+
+### Soumya Deep Roy | Soham Das | Swaraj Sen | Ram Sarkar
 ## Advances in Intelligent Systems and Computing, Springer. 
 
 Class imbalance is a major problem when dealing with real-
