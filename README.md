@@ -1,4 +1,6 @@
 # Venn-Diagram-based-Ensemble-of-Undersampling-Method
+## Advances in Intelligent Systems and Computing, Springer. 
+
 Class imbalance is a major problem when dealing with real-
 world datasets, especially disease datasets. The majority class often con-
 sists of non-patient or negative samples while the minority class consists
